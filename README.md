@@ -4,8 +4,11 @@
 Скачайте этот файл https://cloud.mail.ru/public/2KGj/2pWSDbXZt и бросьте в папку с проектом
 
 pip install dlib
+
 pip install numpy
+
 pip install scipy
+
 pip install scikit-image
 
 В качестве образца фото по которому нужно произвести поиск сохраните фото с лицом под именем find.jpg в каталог со скриптом
